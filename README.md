@@ -39,6 +39,6 @@ Abre el archivo `index.html` en tu navegador preferido.
 ## 📬 Contacto
 ¿Tienes alguna pregunta? ¡Contáctanos!
 
-- 🌐 Página web: [www.powerfitness.com](https://joryerjl.netlify.app/](#)
+- 🌐 Página web: [https://joryerjl.netlify.app/](#)
 - 📧 Correo: joryer.nube@gmail.com
 
