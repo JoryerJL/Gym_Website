@@ -27,3 +27,18 @@ _Aquí puedes añadir capturas de pantalla de tu proyecto para mostrar el diseñ
 
    ```bash
    git clone [https://github.com/JoryerJL/Gym_Website.git]
+Abre el archivo `index.html` en tu navegador preferido.
+
+2. Si deseas modificar el diseño o los componentes, puedes utilizar clases de [Bootstrap](https://getbootstrap.com/) para personalizarlo fácilmente.
+
+## 📂 Estructura del Proyecto
+- `index.html`: Página principal con toda la información del gimnasio.
+- `styles.css`: Archivo de estilos para dar formato y diseño.
+- `script.js`: Archivo de JavaScript para funcionalidades visuales.
+
+## 📬 Contacto
+¿Tienes alguna pregunta? ¡Contáctanos!
+
+- 🌐 Página web: [www.powerfitness.com](https://joryerjl.netlify.app/](#)
+- 📧 Correo: joryer.nube@gmail.com
+
